@@ -1,4 +1,4 @@
-A Deep Learning Analysis of Skin Lesion Classification:
+**A Deep Learning Analysis of Skin Lesion Classification:**
 
 Files:
 - AML Final Project: Research paper summarizing our findings (Abstract, Related Works, Methods, Results, Discussion, and References)
